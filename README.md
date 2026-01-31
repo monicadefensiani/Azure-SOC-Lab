@@ -227,7 +227,7 @@ This project simulates a realistic enterprise security incident from attack exec
 
 Author
 
-[Your Name]
+[Monica Defensiani]
 Cybersecurity | SOC Analyst | Incident Response | Threat Hunting
 
 ⭐ If you find this project useful, feel free to star the repository!
@@ -271,7 +271,7 @@ Replace:
 
 <TARGET_PUBLIC_IP>
 
-[Your Name]
+[Monica Defensiani]
 
 Add your screenshots where the 📸 markers are:
 
